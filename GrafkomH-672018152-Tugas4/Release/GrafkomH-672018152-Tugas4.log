@@ -1,0 +1,15 @@
+﻿  GrafkomH-672018152-Tugas4.cpp
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4.cpp(9,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4.cpp(10,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4.cpp(11,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp____glutCreateWindowWithExit@8
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp____glutInitWithExit@12
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp__glutPostRedisplay@0
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp__glutInitDisplayMode@4
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp__glutTimerFunc@12
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp__glutDisplayFunc@4
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp__glutMainLoop@0
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp__glutInitWindowPosition@8
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp__glutInitWindowSize@8
+GrafkomH-672018152-Tugas4.obj : error LNK2001: unresolved external symbol __imp__glutSwapBuffers@0
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\Release\GrafkomH-672018152-Tugas4.exe : fatal error LNK1120: 10 unresolved externals

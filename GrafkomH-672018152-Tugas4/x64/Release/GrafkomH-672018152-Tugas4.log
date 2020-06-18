@@ -1,0 +1,8 @@
+﻿  GrafkomH-672018152-Tugas4.cpp
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4.cpp(11,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  0 of 7 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GrafkomH-672018152-Tugas4.vcxproj -> C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\x64\Release\GrafkomH-672018152-Tugas4.exe

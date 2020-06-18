@@ -1,0 +1,16 @@
+﻿  GrafkomH-672018152-Tugas4.cpp
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4.cpp(8,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4.cpp(9,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4\GrafkomH-672018152-Tugas4.cpp(10,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowPosition@8 referenced in function _main
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowSize@8 referenced in function _main
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function _main
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp__glutMainLoop@0 referenced in function _main
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp__glutPostRedisplay@0 referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp__glutSwapBuffers@0 referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp__glutTimerFunc@12 referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp__glutDisplayFunc@4 referenced in function _main
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp____glutInitWithExit@12 referenced in function _glutInit_ATEXIT_HACK@8
+GrafkomH-672018152-Tugas4.obj : error LNK2019: unresolved external symbol __imp____glutCreateWindowWithExit@8 referenced in function _glutCreateWindow_ATEXIT_HACK@4
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\library\freeglutd.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Alfriyanis\source\repos\GrafkomH-672018152-Tugas4\Debug\GrafkomH-672018152-Tugas4.exe : fatal error LNK1120: 10 unresolved externals
